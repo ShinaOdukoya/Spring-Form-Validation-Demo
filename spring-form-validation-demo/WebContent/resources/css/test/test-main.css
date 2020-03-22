@@ -1,0 +1,52 @@
+.clabel{
+	font-size: 18px;
+}
+
+.cinput{
+	padding: 5px;
+	margin: 5px;
+	font-size: 15px;
+	size: 50px
+}
+
+.csubmit{
+	border: none;
+	background-color:#4CAF50;
+	color: white;
+	margin: 20px;
+	padding: 8px;
+	cursor: pointer;
+	font-size: 20px;
+}
+
+.cpassword{
+		padding: 5px;
+		margin: 5px;
+		font-size: 15px;
+		size: 50px
+}
+
+.ch1, .ch2{
+		color: #08298A;
+		text-align: center;
+}
+
+.cul{
+	list-style-type: none;
+	parding: 0;
+	margin: 0;
+}
+
+.cb{
+	color:#DF0101;
+}
+
+.cselect{
+	padding: 2px;
+	margin: 4px;
+	font-size: 14px;
+}
+
+.errorx{
+	color: red
+}
